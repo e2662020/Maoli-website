@@ -1,0 +1,47 @@
+.Title{
+	color: #a35e8b;
+	font-style: italic;
+	font-style: ;
+	font-family: 宋体;
+	font-weight: bold;
+	font-size: 100px;
+	text-shadow: 5px 5px black;
+}
+
+body{
+	background-image: url(../static/maolishuaizhao.png);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-color: #b7e5f1;
+}
+
+.button{
+	margin: 10px;
+	font-size: 25px;
+	text-decoration: None;
+	font-weight: bold;
+}
+
+.colorPink{
+	color: #a35e8b;
+}
+
+.colorTuyellow{
+	color: #aaac94;
+}
+
+.colorYellow{
+	color: #a7bf8e;
+}
+
+.colorGreen{
+	color: #53be8f;
+}
+
+.colorBlue{
+	color: #3f8cb3;
+}
+
+.colorPurple{
+	color: #7e91b9;
+}
